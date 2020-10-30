@@ -1,0 +1,1 @@
+cp ./*  /home/livanski/Music/seq_maior/cuda_sankoff/ViennaRNA-2.3.3

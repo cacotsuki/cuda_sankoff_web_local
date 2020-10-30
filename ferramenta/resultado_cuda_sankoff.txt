@@ -1,9 +1,9 @@
 Sankoff:
-seq1: (8)	AAGGCCCC
-seq2: (5)	AACCG
-Score: -32.24
-AAGGCCCC
-........
-AA--CCG-
-Backtrace total time: 0:00.000004
-Total execution time: 0:00.016848
+seq1: (4)	GCCG
+seq2: (4)	GCCG
+Score: 3.35
+GCCG
+....
+GCCG
+Backtrace total time: 0:00.000005
+Total execution time: 0:00.007843
